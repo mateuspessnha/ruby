@@ -1,0 +1,26 @@
+nav.navbar.navbar-default{
+  background-color: #66CDAA;
+  border-color: #5F9EA0;
+  margin-top: 10px;
+}
+
+nav.navbar.navbar-default a {
+  color: white;
+}
+
+li p.navbar.text, a.navbar-brand{
+  color: white!important;
+  font-weight: bolder;
+}
+
+footer.footer{
+  background-color: #66CDAA;
+  border-color: #5F9EA0;
+  margin-top: 55px;
+  color: white;
+  border-radius: 5px;
+}
+
+footer.footer{
+  padding: 10px;
+}
